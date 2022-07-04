@@ -308,12 +308,13 @@
   }
 
   &__analytics-count {
-    max-width: 80px;
+    max-width: 100px;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
     overflow: hidden;
+    word-wrap: break-word;
   }
 
   &__analytics-indicator {
