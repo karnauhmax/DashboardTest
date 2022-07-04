@@ -17774,7 +17774,7 @@ var myStatsChart = new chart_js_auto__WEBPACK_IMPORTED_MODULE_5__["default"](sta
         ticks: {
           color: "rgba(255, 255, 255, 0.8)",
           font: {
-            size: 12,
+            size: 13,
             weight: 700,
             family: "Space Grotesk"
           },
